@@ -1,4 +1,0 @@
-/home/xyz/work/Batch_image_processing/processing/build/CMakeFiles/edit_cache.dir
-/home/xyz/work/Batch_image_processing/processing/build/CMakeFiles/processing_test.dir
-/home/xyz/work/Batch_image_processing/processing/build/CMakeFiles/rebuild_cache.dir
-/home/xyz/work/Batch_image_processing/processing/build/CMakeFiles/processing_test_automoc.dir
