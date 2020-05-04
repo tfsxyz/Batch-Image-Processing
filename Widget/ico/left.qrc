@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/left_right">
+        <file>右(1).png</file>
+        <file>左(1).png</file>
+    </qresource>
+</RCC>
